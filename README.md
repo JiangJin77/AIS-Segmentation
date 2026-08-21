@@ -1,2 +1,0 @@
-## AIS Segmentation
-
